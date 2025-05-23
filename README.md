@@ -34,34 +34,35 @@ Perfect for timing your Soft Boiled, Medium Boiled, Hard Boiled, and Poached egg
 > 📌 Make sure all image files are in the same directory as your `index.html`.
 ---
 
-🏃 How to Run
+## 🏃 How to Run
 Run the app using the command line:
 
-bash
-Copy
-Edit
-python egg_timer.py
+    ```bash
+    python egg_timer.py
 
 ---
 
-🎮 How to Use the App
--Click Start on the welcome screen.
--Select the egg type you want to cook by clicking on its image.
--View the egg details and cooking time on the next screen.
--Click Start Timer to begin the countdown.
--When the timer reaches zero, enjoy the beep alert and a “Your egg is ready!” message.
--Use Back to Home buttons to navigate between screens.
+## 🎮 How to Use the App
+
+- Click Start on the welcome screen.
+- Select the egg type you want to cook by clicking on its image.
+- View the egg details and cooking time on the next screen.
+- Click Start Timer to begin the countdown.
+- When the timer reaches zero, enjoy the beep alert and a “Your egg is ready!” message.
+- Use Back to Home buttons to navigate between screens.
 
 ---
 
-⚠️ Notes
--The beep sound works only on Windows (uses winsound module).
--On other platforms, the beep may not sound but the timer will function normally.
--Images must be present for the app to load them correctly.
+## ⚠️ Notes
+
+- The beep sound works only on Windows (uses winsound module).
+- On other platforms, the beep may not sound but the timer will function normally.
+- Images must be present for the app to load them correctly.
 
 ---
 
-📄 License
+## 📄 License
+
 This project is open source and free to use. Feel free to modify and share!
 
 ---
