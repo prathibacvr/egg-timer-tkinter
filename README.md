@@ -30,18 +30,9 @@ Perfect for timing your Soft Boiled, Medium Boiled, Hard Boiled, and Poached egg
 
    ```bash
    pip install Pillow
-
-Place the following egg images in the same folder as the Python script:
-
-soft-boiled.jpg
-
-medium-boiled.jpg
-
-hard-boiled.jpg
-
-poached eggs.jpg
-
-Note: Make sure these image files exist and are named exactly as above.
+---
+> 📌 Make sure all image files are in the same directory as your `index.html`.
+---
 
 🏃 How to Run
 Run the app using the command line:
@@ -50,28 +41,31 @@ bash
 Copy
 Edit
 python egg_timer.py
+
+---
+
 🎮 How to Use the App
-Click Start on the welcome screen.
+-Click Start on the welcome screen.
+-Select the egg type you want to cook by clicking on its image.
+-View the egg details and cooking time on the next screen.
+-Click Start Timer to begin the countdown.
+-When the timer reaches zero, enjoy the beep alert and a “Your egg is ready!” message.
+-Use Back to Home buttons to navigate between screens.
 
-Select the egg type you want to cook by clicking on its image.
-
-View the egg details and cooking time on the next screen.
-
-Click Start Timer to begin the countdown.
-
-When the timer reaches zero, enjoy the beep alert and a “Your egg is ready!” message.
-
-Use Back to Home buttons to navigate between screens.
+---
 
 ⚠️ Notes
-The beep sound works only on Windows (uses winsound module).
+-The beep sound works only on Windows (uses winsound module).
+-On other platforms, the beep may not sound but the timer will function normally.
+-Images must be present for the app to load them correctly.
 
-On other platforms, the beep may not sound but the timer will function normally.
-
-Images must be present for the app to load them correctly.
+---
 
 📄 License
 This project is open source and free to use. Feel free to modify and share!
 
+---
 
 Enjoy perfectly timed eggs every time! 🥚⏲️
+
+---
