@@ -31,14 +31,15 @@ Perfect for timing your Soft Boiled, Medium Boiled, Hard Boiled, and Poached egg
    ```bash
    pip install Pillow
 ---
-> 📌 Make sure all image files are in the same directory as your `index.html`.
+> 📌 Make sure all image files are in the same directory as your `window.py`.
 ---
 
 ## 🏃 How to Run
 Run the app using the command line:
 
     ```bash
-    python egg_timer.py
+    python egg_timer.py 
+
 ---
 
 ## 🎮 How to Use the App
