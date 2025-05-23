@@ -37,8 +37,8 @@ Perfect for timing your Soft Boiled, Medium Boiled, Hard Boiled, and Poached egg
 ## 🏃 How to Run
 Run the app using the command line:
 
-   ```bash
-   python egg_timer.py
+    ```bash
+    python egg_timer.py
 ---
 
 ## 🎮 How to Use the App
